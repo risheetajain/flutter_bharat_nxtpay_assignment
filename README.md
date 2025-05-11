@@ -8,7 +8,7 @@ API as json placeholders.
 - Favorite Tab
 ## Setup Instructions
 1. Clone the repo:
-git clone <your-repo-link>
+git clone (https://github.com/risheetajain/flutter_bharat_nxtpay_assignment/)
 cd flutter_assignment
 2. Install dependencies:
 flutter pub get
