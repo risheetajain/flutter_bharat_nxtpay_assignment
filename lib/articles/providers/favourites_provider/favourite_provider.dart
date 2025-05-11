@@ -24,6 +24,7 @@ class FavoriteProvider extends ChangeNotifier {
 
       LocalStorage.addDataIntoFavoriteBox(model.id);
     }
+    notifyListeners();
   }
 
   removeArticleModel(int id) {

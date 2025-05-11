@@ -32,8 +32,6 @@ Riverpod selection from multiple different state management
 
 
 ## Known Issues / Limitations
-Limitation
-Favourite is not reflecting at time it enable when we go to another page
 Improvable Things
 UI can be improved more for better efficiency we can use async notifier for api calls
 Error Can be improved more efficiently with left and right
